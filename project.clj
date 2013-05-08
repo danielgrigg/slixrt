@@ -1,4 +1,4 @@
-(defproject slixrt "0.1.0"
+(defproject slixrt "0.1.1"
   :description "The exirt ray-tracer in clojure"
   :url "http://sliplanesoftware.com/"
   :license {:name "Eclipse Public License"
